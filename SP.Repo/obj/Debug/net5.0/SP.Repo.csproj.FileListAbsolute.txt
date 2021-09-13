@@ -1,0 +1,30 @@
+C:\Users\User\source\repos\SpareParts\SP.Repo\bin\Debug\net5.0\SP.Repo.deps.json
+C:\Users\User\source\repos\SpareParts\SP.Repo\bin\Debug\net5.0\SP.Repo.dll
+C:\Users\User\source\repos\SpareParts\SP.Repo\bin\Debug\net5.0\ref\SP.Repo.dll
+C:\Users\User\source\repos\SpareParts\SP.Repo\bin\Debug\net5.0\SP.Repo.pdb
+C:\Users\User\source\repos\SpareParts\SP.Repo\bin\Debug\net5.0\SP.Data.dll
+C:\Users\User\source\repos\SpareParts\SP.Repo\bin\Debug\net5.0\SP.Data.pdb
+C:\Users\User\source\repos\SpareParts\SP.Repo\obj\Debug\net5.0\SP.Repo.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SpareParts\SP.Repo\obj\Debug\net5.0\SP.Repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SpareParts\SP.Repo\obj\Debug\net5.0\SP.Repo.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SpareParts\SP.Repo\obj\Debug\net5.0\SP.Repo.AssemblyInfo.cs
+C:\Users\User\source\repos\SpareParts\SP.Repo\obj\Debug\net5.0\SP.Repo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SpareParts\SP.Repo\obj\Debug\net5.0\SP.Repo.csproj.CopyComplete
+C:\Users\User\source\repos\SpareParts\SP.Repo\obj\Debug\net5.0\SP.Repo.dll
+C:\Users\User\source\repos\SpareParts\SP.Repo\obj\Debug\net5.0\ref\SP.Repo.dll
+C:\Users\User\source\repos\SpareParts\SP.Repo\obj\Debug\net5.0\SP.Repo.pdb
+D:\PROJECT\WORKING EXAMPLE\SpareParts\SP.Repo\bin\Debug\net5.0\SP.Repo.deps.json
+D:\PROJECT\WORKING EXAMPLE\SpareParts\SP.Repo\bin\Debug\net5.0\SP.Repo.dll
+D:\PROJECT\WORKING EXAMPLE\SpareParts\SP.Repo\bin\Debug\net5.0\ref\SP.Repo.dll
+D:\PROJECT\WORKING EXAMPLE\SpareParts\SP.Repo\bin\Debug\net5.0\SP.Repo.pdb
+D:\PROJECT\WORKING EXAMPLE\SpareParts\SP.Repo\bin\Debug\net5.0\SP.Data.dll
+D:\PROJECT\WORKING EXAMPLE\SpareParts\SP.Repo\bin\Debug\net5.0\SP.Data.pdb
+D:\PROJECT\WORKING EXAMPLE\SpareParts\SP.Repo\obj\Debug\net5.0\SP.Repo.csproj.AssemblyReference.cache
+D:\PROJECT\WORKING EXAMPLE\SpareParts\SP.Repo\obj\Debug\net5.0\SP.Repo.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECT\WORKING EXAMPLE\SpareParts\SP.Repo\obj\Debug\net5.0\SP.Repo.AssemblyInfoInputs.cache
+D:\PROJECT\WORKING EXAMPLE\SpareParts\SP.Repo\obj\Debug\net5.0\SP.Repo.AssemblyInfo.cs
+D:\PROJECT\WORKING EXAMPLE\SpareParts\SP.Repo\obj\Debug\net5.0\SP.Repo.csproj.CoreCompileInputs.cache
+D:\PROJECT\WORKING EXAMPLE\SpareParts\SP.Repo\obj\Debug\net5.0\SP.Repo.csproj.CopyComplete
+D:\PROJECT\WORKING EXAMPLE\SpareParts\SP.Repo\obj\Debug\net5.0\SP.Repo.dll
+D:\PROJECT\WORKING EXAMPLE\SpareParts\SP.Repo\obj\Debug\net5.0\ref\SP.Repo.dll
+D:\PROJECT\WORKING EXAMPLE\SpareParts\SP.Repo\obj\Debug\net5.0\SP.Repo.pdb

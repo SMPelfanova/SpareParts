@@ -1,0 +1,23 @@
+C:\Users\User\source\repos\SpareParts\SP.Data\bin\Debug\net5.0\SP.Data.deps.json
+C:\Users\User\source\repos\SpareParts\SP.Data\bin\Debug\net5.0\SP.Data.dll
+C:\Users\User\source\repos\SpareParts\SP.Data\bin\Debug\net5.0\ref\SP.Data.dll
+C:\Users\User\source\repos\SpareParts\SP.Data\bin\Debug\net5.0\SP.Data.pdb
+C:\Users\User\source\repos\SpareParts\SP.Data\obj\Debug\net5.0\SP.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SpareParts\SP.Data\obj\Debug\net5.0\SP.Data.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SpareParts\SP.Data\obj\Debug\net5.0\SP.Data.AssemblyInfo.cs
+C:\Users\User\source\repos\SpareParts\SP.Data\obj\Debug\net5.0\SP.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SpareParts\SP.Data\obj\Debug\net5.0\SP.Data.dll
+C:\Users\User\source\repos\SpareParts\SP.Data\obj\Debug\net5.0\ref\SP.Data.dll
+C:\Users\User\source\repos\SpareParts\SP.Data\obj\Debug\net5.0\SP.Data.pdb
+D:\PROJECT\WORKING EXAMPLE\SpareParts\SP.Data\bin\Debug\net5.0\SP.Data.deps.json
+D:\PROJECT\WORKING EXAMPLE\SpareParts\SP.Data\bin\Debug\net5.0\SP.Data.dll
+D:\PROJECT\WORKING EXAMPLE\SpareParts\SP.Data\bin\Debug\net5.0\ref\SP.Data.dll
+D:\PROJECT\WORKING EXAMPLE\SpareParts\SP.Data\bin\Debug\net5.0\SP.Data.pdb
+D:\PROJECT\WORKING EXAMPLE\SpareParts\SP.Data\obj\Debug\net5.0\SP.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECT\WORKING EXAMPLE\SpareParts\SP.Data\obj\Debug\net5.0\SP.Data.AssemblyInfoInputs.cache
+D:\PROJECT\WORKING EXAMPLE\SpareParts\SP.Data\obj\Debug\net5.0\SP.Data.AssemblyInfo.cs
+D:\PROJECT\WORKING EXAMPLE\SpareParts\SP.Data\obj\Debug\net5.0\SP.Data.csproj.CoreCompileInputs.cache
+D:\PROJECT\WORKING EXAMPLE\SpareParts\SP.Data\obj\Debug\net5.0\SP.Data.dll
+D:\PROJECT\WORKING EXAMPLE\SpareParts\SP.Data\obj\Debug\net5.0\ref\SP.Data.dll
+D:\PROJECT\WORKING EXAMPLE\SpareParts\SP.Data\obj\Debug\net5.0\SP.Data.pdb
+D:\PROJECT\WORKING EXAMPLE\SpareParts\SP.Data\obj\Debug\net5.0\SP.Data.csproj.AssemblyReference.cache

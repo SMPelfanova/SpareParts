@@ -1,0 +1,26 @@
+<div class="container">
+  <br />
+  <h3>Part Details</h3>
+  <br />
+  <div class="card">
+    <div class="card-header">
+      <div class="row">
+        <div class="col">
+          <h4>{{ part.name }}</h4>
+        </div>
+        <div class="col text-right">
+          <a href="#" routerLink="/parts/list" class="btn btn-secondary btn-sm">Back To Players List</a>
+        </div>
+      </div>
+    </div>
+    <ul class="list-group list-group-flush">
+      <li class="list-group-item"><b>Id:</b> {{ part.partId }}</li>
+      <li class="list-group-item"><b>Serial Nr:</b> {{ part.serialNr }}</li>
+      <li class="list-group-item"><b>Name:</b> {{ part.name }}</li>
+      <li class="list-group-item"><b>Manufacturer:</b> {{ manufacturerName }}</li>
+      <li class="list-group-item"><b>Price:</b> {{ part.price }}</li>
+      <li class="list-group-item"><b>Details:</b> {{ part.details }}</li>
+
+    </ul>
+  </div>
+</div>

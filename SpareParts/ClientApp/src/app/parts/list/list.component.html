@@ -1,0 +1,41 @@
+<div class="container">
+  <br />
+  <div class="row">
+    <div class="col">
+      <h3>Parts</h3>
+    </div>
+    <div class="col text-right">
+      <a href="#" routerLink="/parts/create/" class="btn btn-success btn-sm">Create New</a>
+    </div>
+  </div>
+  <br />
+
+  <div class="row" *ngIf="showMsg">
+    <div class="col-xs-12">
+      <p class="alert alert-success">
+        <strong>Success!</strong>
+      </p>
+    </div>
+  </div>
+
+  <table class="table table-bordered table-sm">
+    <tr>
+      <th>Id</th>
+      <th>Serial No</th>
+      <th>Name</th>
+      <th>Price</th>
+      <th width="200px"></th>
+    </tr>
+    <tr *ngFor="let part of parts">
+      <td>{{ part.partId }}</td>
+      <td>{{ part.serialNr }}</td>
+      <td>{{ part.name }}</td>
+      <td>{{ part.price }}</td>
+      <td class="text-right">
+        <a href="#" [routerLink]="['/parts/', part.partId, 'details']" class="btn btn-info btn-sm">View</a>
+        <a href="#" [routerLink]="['/parts/', part.partId, 'edit']" class="btn btn-primary btn-sm">Edit</a>
+        <button type="button" (click)="deletePart(part.partId)" class="btn btn-danger btn-sm">Delete</button>
+      </td>
+    </tr>
+  </table>
+</div>

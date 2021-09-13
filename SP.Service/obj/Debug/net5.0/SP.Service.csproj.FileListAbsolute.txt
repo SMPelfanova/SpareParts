@@ -1,0 +1,34 @@
+C:\Users\User\source\repos\SpareParts\SP.Service\bin\Debug\net5.0\SP.Service.deps.json
+C:\Users\User\source\repos\SpareParts\SP.Service\bin\Debug\net5.0\SP.Service.dll
+C:\Users\User\source\repos\SpareParts\SP.Service\bin\Debug\net5.0\ref\SP.Service.dll
+C:\Users\User\source\repos\SpareParts\SP.Service\bin\Debug\net5.0\SP.Service.pdb
+C:\Users\User\source\repos\SpareParts\SP.Service\bin\Debug\net5.0\SP.Data.dll
+C:\Users\User\source\repos\SpareParts\SP.Service\bin\Debug\net5.0\SP.Repo.dll
+C:\Users\User\source\repos\SpareParts\SP.Service\bin\Debug\net5.0\SP.Data.pdb
+C:\Users\User\source\repos\SpareParts\SP.Service\bin\Debug\net5.0\SP.Repo.pdb
+C:\Users\User\source\repos\SpareParts\SP.Service\obj\Debug\net5.0\SP.Service.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SpareParts\SP.Service\obj\Debug\net5.0\SP.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SpareParts\SP.Service\obj\Debug\net5.0\SP.Service.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SpareParts\SP.Service\obj\Debug\net5.0\SP.Service.AssemblyInfo.cs
+C:\Users\User\source\repos\SpareParts\SP.Service\obj\Debug\net5.0\SP.Service.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SpareParts\SP.Service\obj\Debug\net5.0\SP.Service.csproj.CopyComplete
+C:\Users\User\source\repos\SpareParts\SP.Service\obj\Debug\net5.0\SP.Service.dll
+C:\Users\User\source\repos\SpareParts\SP.Service\obj\Debug\net5.0\ref\SP.Service.dll
+C:\Users\User\source\repos\SpareParts\SP.Service\obj\Debug\net5.0\SP.Service.pdb
+D:\PROJECT\WORKING EXAMPLE\SpareParts\SP.Service\bin\Debug\net5.0\SP.Service.deps.json
+D:\PROJECT\WORKING EXAMPLE\SpareParts\SP.Service\bin\Debug\net5.0\SP.Service.dll
+D:\PROJECT\WORKING EXAMPLE\SpareParts\SP.Service\bin\Debug\net5.0\ref\SP.Service.dll
+D:\PROJECT\WORKING EXAMPLE\SpareParts\SP.Service\bin\Debug\net5.0\SP.Service.pdb
+D:\PROJECT\WORKING EXAMPLE\SpareParts\SP.Service\bin\Debug\net5.0\SP.Data.dll
+D:\PROJECT\WORKING EXAMPLE\SpareParts\SP.Service\bin\Debug\net5.0\SP.Repo.dll
+D:\PROJECT\WORKING EXAMPLE\SpareParts\SP.Service\bin\Debug\net5.0\SP.Data.pdb
+D:\PROJECT\WORKING EXAMPLE\SpareParts\SP.Service\bin\Debug\net5.0\SP.Repo.pdb
+D:\PROJECT\WORKING EXAMPLE\SpareParts\SP.Service\obj\Debug\net5.0\SP.Service.csproj.AssemblyReference.cache
+D:\PROJECT\WORKING EXAMPLE\SpareParts\SP.Service\obj\Debug\net5.0\SP.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECT\WORKING EXAMPLE\SpareParts\SP.Service\obj\Debug\net5.0\SP.Service.AssemblyInfoInputs.cache
+D:\PROJECT\WORKING EXAMPLE\SpareParts\SP.Service\obj\Debug\net5.0\SP.Service.AssemblyInfo.cs
+D:\PROJECT\WORKING EXAMPLE\SpareParts\SP.Service\obj\Debug\net5.0\SP.Service.csproj.CoreCompileInputs.cache
+D:\PROJECT\WORKING EXAMPLE\SpareParts\SP.Service\obj\Debug\net5.0\SP.Service.csproj.CopyComplete
+D:\PROJECT\WORKING EXAMPLE\SpareParts\SP.Service\obj\Debug\net5.0\SP.Service.dll
+D:\PROJECT\WORKING EXAMPLE\SpareParts\SP.Service\obj\Debug\net5.0\ref\SP.Service.dll
+D:\PROJECT\WORKING EXAMPLE\SpareParts\SP.Service\obj\Debug\net5.0\SP.Service.pdb
